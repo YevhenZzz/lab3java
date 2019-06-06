@@ -1,4 +1,4 @@
-package ua.Lviv.iot.Enums;
+package ua.lviv.iot.Clothes.models;
 
 public enum ShoesType {
     SNEAKERS, BAGS, MOCS
